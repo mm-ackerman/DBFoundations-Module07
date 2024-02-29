@@ -5,4 +5,8 @@ It contains the following:
 - SQL Code
 - Write Up
 
+
+[Google Homepage](https://www.google.com "Google's Homepage")
+[GitHub Webpage Code CheatSheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
 Last udpated: 2/26/24
